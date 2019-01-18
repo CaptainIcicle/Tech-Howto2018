@@ -1,0 +1,25 @@
+Linux Basics:
+What is linux?
+- Open Source OS utilized for many opensource projects
+Should I use linux?
+If you want a gaming PC (NO)
+If you want to do other things and improve productivity
+I highly reccomend using linux
+
+Basic Commands:
+pwd - Prints working directory
+ls - lists everything in a directory
+cd [Directory] - Changes what directory you wish to go into
+apt-get install [module] - installs any module available
+to the system
+./[example] - This will execute any file that can be excuted in terminal
+chmod - Gives/Removes a file's permission to execute
+
+adding -h at the end of any command will display a help menu for that module
+most times. 
+
+Can I execute files like on Windows10 or MacOS?
+No, unfortunately most things are done through a command line
+while there are many applications for linux that are click to execute
+many of the things you will encounter on linux is command line
+scripts and applications.
